@@ -1,0 +1,4 @@
+Simple File Renamer
+C:\Program Files\Simple File Renamer 1.1\Simple File Renamer.exe
+Span Tag Remover
+C:\Program Files\Span Tag Remover 1.0\Span Tag Remover.exe

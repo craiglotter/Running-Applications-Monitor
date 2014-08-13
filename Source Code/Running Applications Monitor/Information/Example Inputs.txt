@@ -1,0 +1,10 @@
+Print Credit Machine Controller
+C:\Program Files\Print Credit Machine Controller\Print Credit Machine Controller.exe
+Print Credit Machine Status HTML Generator
+C:\Program Files\Print Credit Machine Status HTML Generator\Print Credit Machine Status HTML Generator.exe
+Commerce Web Status Monitor
+C:\Program Files\Commerce Web Status Monitor\Commerce Web Status Monitor.exe
+Continuous File Copier
+C:\Program Files\Continuous File Copier\Continuous File Copier.exe
+PrintVendor
+C:\Print Vendor\PrintVendor.exe
